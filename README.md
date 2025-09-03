@@ -134,4 +134,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 🙏 Credits
 
-Project by [@Dora2213179](https://github.com/Dora2213179) and contributors.
+Project by [@Dora2213179](https://github.com/Dora2213179)
